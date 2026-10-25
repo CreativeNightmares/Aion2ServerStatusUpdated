@@ -1,14 +1,14 @@
 {
-  "status": "Maintenance",
-  "down_since": 1792888517,
-  "region_down": true,
+  "status": "Online",
+  "down_since": null,
+  "region_down": false,
   "hooks": {
     "cde6e381": {
       "message_id": "1562802552515338272",
-      "status": "Maintenance",
+      "status": "Online",
       "recovering": false,
-      "notify_id": "1563737727797563555",
-      "notify_at": 1792894526
+      "notify_id": "1563746515703308339",
+      "notify_at": 1792896621
     }
   }
 }
