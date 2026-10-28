@@ -6,9 +6,7 @@
     "cde6e381": {
       "message_id": "1562802552515338272",
       "status": "Maintenance",
-      "recovering": false,
-      "notify_id": "1564892846786613309",
-      "notify_at": 1793169928
+      "recovering": false
     }
   }
 }
